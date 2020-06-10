@@ -1,0 +1,16 @@
+#ii{
+    width: 25%;
+    height: 25%;
+    margin-left: 33%;
+    margin-top: 15%;
+    border: 4px solid #03115e;
+    background: linear-gradient(blue,#00aaff);
+}
+h1{
+    padding-left: 70px;
+}
+#ii:hover{
+      zoom: 3;
+      width: 350px;
+      margin-left: 10%;
+}
